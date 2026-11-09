@@ -1,1 +1,1 @@
-const valid = name => name.trim().length >0;
+const label = "Log in";
